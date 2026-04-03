@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "switchpoint.aternos",
+    "port": 51707,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 36000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "dih.",
+        "HI GUYS",
+        "This is an AFK Bot, keeps the server running 24/7"
       ]
     },
     "chat-log": true,
